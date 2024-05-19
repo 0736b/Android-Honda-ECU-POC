@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Honda K-Line Diagnostic</string>
+    <string name="ftdi_device_string">สาย FTDI:</string>
+    <string name="ftdi_device_serial">None</string>
+    <string name="ftdi_device_status">สถานะการเชื่อมต่อ:</string>
+    <string name="ftdi_device_connect">None</string>
+    <string name="ecu_id_string">ข้อมูล ECU ID:</string>
+    <string name="rpm_text">รอบเครื่องยนต์ (RPM):</string>
+    <string name="rpm_data">0</string>
+    <string name="tps_text">ตำแหน่งคันเร่ง (TPS):</string>
+    <string name="tps_data">0.0</string>
+    <string name="afr_text">อัตราส่วนอากาศต่อน้ำมัน (AFR):</string>
+    <string name="afr_data">0.0</string>
+    <string name="ftdi_found">FTDI Found</string>
+    <string name="ftdi_not_found">no FTDI found</string>
+    <string name="honda_k_line_diagnostic">Honda K-Line Diagnostic</string>
+    <string name="no_connection">No Connection</string>
+    <string name="text_rpm">รอบเครื่องยนต์\n(RPM)</string>
+    <string name="text_tps">ตำแหน่งคันเร่ง\n(TPS)</string>
+    <string name="text_afr">อัตราส่วน\nอากาศต่อน้ำมัน\n(AFR)</string>
+    <string name="text_inj">ระยะเวลา\nเปิดหัวฉีด\n(INJ)</string>
+    <string name="text_ign">องศา\nไฟจุดระเบิด\n(IGN)</string>
+    <string name="text_eot">อุณหภูมิ\nน้ำมันเครื่อง\n(EOT)</string>
+    <string name="connected">Connected</string>
+</resources>
