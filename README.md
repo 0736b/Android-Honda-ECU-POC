@@ -1,6 +1,8 @@
 # Android-Honda-ECU-POC
-> Proof-of-Concept: Monitoring Honda Wave125i's ECU K-Line from Android Smartphone.
 
+Proof-of-Concept: Monitoring Honda Wave125i's ECU K-Line from Android Smartphone.
+
+<img src="android-honda-ecu-preview.PNG" width="320px"/>
 
 
 ### Requirement
